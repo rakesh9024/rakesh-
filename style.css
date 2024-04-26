@@ -1,0 +1,25 @@
+.colormodes{
+    display: flex;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.colormodes button{
+    margin-right:10px;
+    margin-left: 10px;
+
+}
+.bluecolor{
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 50%;
+
+}
+.redcolor{
+    width: 30px;
+    height: 30px;
+    background-color:red;
+    border-radius: 50%;
+
+}
+
